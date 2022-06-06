@@ -1,4 +1,4 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# ✅  Project: Todo List
 
 ### Goal: A Simple Todo List meant to help users keep track of tasks both pending and completed. 
 
